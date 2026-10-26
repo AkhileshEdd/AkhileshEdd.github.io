@@ -163,6 +163,9 @@ nav a:hover { color: var(--accent); }
 .policy-head h1 { font-size: clamp(1.7rem, 1.3rem + 2vw, 2.6rem); margin-bottom: .25em; }
 .policy-body .summary { font-size: 1.12rem; background: var(--surface); border-left: 4px solid var(--sun); padding: 16px 20px; border-radius: 0 var(--r-sm) var(--r-sm) 0; }
 .policy-body h2 { font-size: 1.3rem; }
+.policy-body h3 { font-size: 1.1rem; margin-top: 1.4em; }
+.policy-body .term { font-weight: 700; margin: 1.1em 0 .15em; overflow-wrap: anywhere; }
+.policy-body blockquote { margin: 0 0 1em; padding-left: 1em; border-left: 3px solid var(--line); color: var(--muted); }
 .policy-body ul { padding-left: 1.2em; }
 .policy-body li { margin-bottom: .4em; }
 
